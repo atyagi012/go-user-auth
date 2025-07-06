@@ -159,3 +159,4 @@ func Validate(c *gin.Context) {
 		"message": user,
 	})
 }
+
